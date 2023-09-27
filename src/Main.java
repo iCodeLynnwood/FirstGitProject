@@ -10,4 +10,10 @@ public class Main {
 
 
     }
+
+    public static void math(int add){
+        add+=add;
+
+        System.out.println(add);
+    }
 }
